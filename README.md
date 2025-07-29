@@ -10,5 +10,15 @@ Roll Number: 231B342
 
 Email: 231B342@juetguna.in
 
-<Solution code to part F>
+solution of lab exercise 1
+
+# Simple program to add two numbers
+num1 = 5
+num2 = 7
+
+# Add the numbers
+sum = num1 + num2
+
+# Display the result
+print("The sum is:", sum)
 
